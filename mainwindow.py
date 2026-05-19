@@ -4,7 +4,6 @@ from ui.ui_form import Ui_MainWindow
 from app.editor_manager import EditorManager
 from app.cpp_runner import CppRunner
 from app.panel_manager import PanelManager
-import sys
 
 
 class MainWindow(QMainWindow):
